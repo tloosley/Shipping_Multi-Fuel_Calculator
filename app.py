@@ -264,7 +264,7 @@ This tool should be used as a illustrative tool and is not necessarily represent
 """
     )
 
-
+# ─────────────────────────────  FOOTER NOTE  ───────────────────────────── #
 st.write(" ")
 st.write(" ")
 st.write(" ")
