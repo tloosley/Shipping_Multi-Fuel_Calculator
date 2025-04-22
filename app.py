@@ -263,3 +263,13 @@ This tool should be used as a illustrative tool and is not necessarily represent
 * Carbon‑price default (\\$100 / t CO₂) reflects forward **EU‑ETS** pricing.
 """
     )
+
+
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write(" ")
+st.write("Multi-Fuel Carbon & Cost Scenario Explorer (MCCSE) © ¦ Created by Tom Loosley ¦ Published in 2025")
+st.markdown("Found a problem? <a href='mailto:loosleytom@gmail.com'>Report an issue</a>", unsafe_allow_html=True)
